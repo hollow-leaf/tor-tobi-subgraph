@@ -1,0 +1,8 @@
+{
+  "goerli": {
+    "Kamui": {
+      "address": "0x32F2C72461f62244287834fF9bc3387aEA38f8c8",
+      "startBlock": 9209349
+    }
+  }
+}
